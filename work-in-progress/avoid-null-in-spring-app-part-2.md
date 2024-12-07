@@ -187,4 +187,4 @@ These techniques work synergistically, ensuring that your Spring application mai
 
 **Continue Reading:**  
 [Part 1: Eliminating `null` in Java – Core Strategies](./avoid-null-in-codebase-using-java-part-1.md)  
-[Part 3: Spring Boot and Reactive Programming](#)
+[Part 3: Spring Boot and Reactive Programming](./avoid-null-in-java-codebase-using-spring-reactive-part3.md)
