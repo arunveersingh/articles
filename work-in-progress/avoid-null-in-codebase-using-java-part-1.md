@@ -312,4 +312,4 @@ While `null` is a fundamental concept in Java, you can significantly reduce its 
 ---
 
 **Continue Reading:**  
-[Part 2: Managing Null in the Spring Framework / Spring Boot (Link)](#)
+[Part 2: Managing Null in the Spring Framework / Spring Boot (Link)](./avoid-null-in-spring-app-part-2.md)
